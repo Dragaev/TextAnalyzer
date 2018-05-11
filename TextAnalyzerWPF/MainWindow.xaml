@@ -1,0 +1,33 @@
+﻿<Window x:Class="TextAnalyzerWPF.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:TextAnalyzerWPF"
+        mc:Ignorable="d"
+        Title="Анализатор текста" Height="540" Width="400">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="0.5*"></RowDefinition>
+            <RowDefinition Height="0.13*"></RowDefinition>
+            <RowDefinition Height="1*"></RowDefinition>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition></ColumnDefinition>
+        </Grid.ColumnDefinitions>
+
+        <Button Name="AnalyzeBtn" Content="Анализировать" Grid.Row="1" Grid.Column="0"  Margin="10" Width="100" Click="AnalyzeBtn_Click"/>
+        <TextBox Name="InputTextTB" Grid.Row="0" Grid.Column="0" Margin="0" Height="100" Width="350" TextWrapping="Wrap" Text=""/>
+        <DataGrid Name="LinesGrid" Grid.Row="2" Grid.Column="0" Margin="20">
+            <DataGrid.Columns>
+                <DataGridTextColumn Header="Слово" Width="100" CanUserSort="False" Binding="{Binding Path=Word}"/>
+                <DataGridTextColumn Header="Часть речи" Width="100" CanUserSort="False" Binding="{Binding Path=Type}"/>
+                <DataGridTextColumn Header="Количество в тексте" Width="130" CanUserSort="False" Binding="{Binding Path=Quantity}"/>
+            </DataGrid.Columns>
+        </DataGrid> 
+        
+        <Label Content="Введите текст:" Grid.Row="0" Grid.Column="0" HorizontalAlignment="Center" Margin="7" VerticalAlignment="Top"/>
+        <Label Content="Результаты анализа:" HorizontalAlignment="Center" Margin="0" Grid.Row="2" VerticalAlignment="Top" Grid.RowSpan="2"/>
+
+    </Grid>
+</Window>
