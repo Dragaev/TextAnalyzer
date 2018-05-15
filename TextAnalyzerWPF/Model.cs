@@ -14,7 +14,7 @@ namespace TextAnalyzerWPF
             //Строим 'parse tree'            
             List<Expression> tree = new List<Expression>
             {
-                new TypeOfExpression()
+                new WordExpression()
             };
 
             //Интерпретатор

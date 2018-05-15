@@ -13,3 +13,18 @@ C:\Users\outli\OneDrive\Документы\Visual Studio 2017\Projects\TextAnaly
 C:\Users\outli\OneDrive\Документы\Visual Studio 2017\Projects\TextAnalyzerWPF\TextAnalyzerWPF\obj\Debug\TextAnalyzerWPF.csproj.CoreCompileInputs.cache
 C:\Users\outli\OneDrive\Документы\Visual Studio 2017\Projects\TextAnalyzerWPF\TextAnalyzerWPF\obj\Debug\TextAnalyzerWPF.exe
 C:\Users\outli\OneDrive\Документы\Visual Studio 2017\Projects\TextAnalyzerWPF\TextAnalyzerWPF\obj\Debug\TextAnalyzerWPF.pdb
+C:\Users\outli\Desktop\TextAnalyzerWPF\TextAnalyzerWPF\bin\Debug\TextAnalyzerWPF.exe.config
+C:\Users\outli\Desktop\TextAnalyzerWPF\TextAnalyzerWPF\bin\Debug\TextAnalyzerWPF.exe
+C:\Users\outli\Desktop\TextAnalyzerWPF\TextAnalyzerWPF\bin\Debug\TextAnalyzerWPF.pdb
+C:\Users\outli\Desktop\TextAnalyzerWPF\TextAnalyzerWPF\obj\Debug\TextAnalyzerWPF.csprojResolveAssemblyReference.cache
+C:\Users\outli\Desktop\TextAnalyzerWPF\TextAnalyzerWPF\obj\Debug\MainWindow.g.cs
+C:\Users\outli\Desktop\TextAnalyzerWPF\TextAnalyzerWPF\obj\Debug\App.g.cs
+C:\Users\outli\Desktop\TextAnalyzerWPF\TextAnalyzerWPF\obj\Debug\TextAnalyzerWPF_MarkupCompile.cache
+C:\Users\outli\Desktop\TextAnalyzerWPF\TextAnalyzerWPF\obj\Debug\TextAnalyzerWPF_MarkupCompile.lref
+C:\Users\outli\Desktop\TextAnalyzerWPF\TextAnalyzerWPF\obj\Debug\MainWindow.baml
+C:\Users\outli\Desktop\TextAnalyzerWPF\TextAnalyzerWPF\obj\Debug\TextAnalyzerWPF.g.resources
+C:\Users\outli\Desktop\TextAnalyzerWPF\TextAnalyzerWPF\obj\Debug\TextAnalyzerWPF.Properties.Resources.resources
+C:\Users\outli\Desktop\TextAnalyzerWPF\TextAnalyzerWPF\obj\Debug\TextAnalyzerWPF.csproj.GenerateResource.Cache
+C:\Users\outli\Desktop\TextAnalyzerWPF\TextAnalyzerWPF\obj\Debug\TextAnalyzerWPF.csproj.CoreCompileInputs.cache
+C:\Users\outli\Desktop\TextAnalyzerWPF\TextAnalyzerWPF\obj\Debug\TextAnalyzerWPF.exe
+C:\Users\outli\Desktop\TextAnalyzerWPF\TextAnalyzerWPF\obj\Debug\TextAnalyzerWPF.pdb

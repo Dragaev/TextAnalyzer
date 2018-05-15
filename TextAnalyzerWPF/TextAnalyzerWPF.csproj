@@ -56,7 +56,7 @@
     </ApplicationDefinition>
     <Compile Include="Item.cs" />
     <Compile Include="Model.cs" />
-    <Compile Include="TypeOfExpression.cs" />
+    <Compile Include="WordExpression.cs" />
     <Page Include="MainWindow.xaml">
       <Generator>MSBuild:Compile</Generator>
       <SubType>Designer</SubType>
